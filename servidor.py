@@ -67,7 +67,7 @@ def logDataCliente(recepcion, nTime, numPaqEnv, numPaqRecv, hashR, hash):
         separador = "\n---------------------------------------\n"
         hash = "\nHASH calculado en el servidor: \n" + hash
         logFile = open(logName, "a")
-        logFile.write(recepcion + "\n" + paquetesEnv +Rec + tiempoT + hashR + hash + separador)
+        logFile.write(recepcion + "\n" + paquetesEnv + paquetesRec + tiempoT + hashR + hash + separador)
         logFile.close()
 
 
