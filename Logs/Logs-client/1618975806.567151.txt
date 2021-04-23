@@ -1,0 +1,52 @@
+Fecha: 2021-04-20 22:30:06.567151
+----------------------------------------
+Nombre del archivo Recibidos
+Tamanio del archivo: 121971328 bytes
+Cliente 0 termino con estado de Error
+Numero de paquetes recibidos por el cliente:29780
+
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+HASH calculado en el cliente: 
+9dad83b2dcd28d5400e4ca3de68977568ac08d33
+---------------------------------------
+Nombre del archivo Recibidos
+Tamanio del archivo: 156282880 bytes
+Cliente 2 termino con estado de Error
+Numero de paquetes recibidos por el cliente:38156
+
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+HASH calculado en el cliente: 
+bab8ab7610d1c7209625b41b659d9a46a0f92f3e
+---------------------------------------
+Nombre del archivo Recibidos
+Tamanio del archivo: 153759744 bytes
+Cliente 3 termino con estado de Error
+Numero de paquetes recibidos por el cliente:37540
+
+HASH calculado en el servidor: 
+TIMEOUT
+HASH calculado en el cliente: 
+17776807329fc8b4829ec3790d61b26f5ea78a66
+---------------------------------------
+Nombre del archivo Recibidos
+Tamanio del archivo: 153104384 bytes
+Cliente 4 termino con estado de Error
+Numero de paquetes recibidos por el cliente:37380
+
+HASH calculado en el servidor: 
+TIMEOUT
+HASH calculado en el cliente: 
+4c738a226c7f973460fa106611f5de818608104a
+---------------------------------------
+Nombre del archivo Recibidos
+Tamanio del archivo: 193867776 bytes
+Cliente 1 termino con estado de Error
+Numero de paquetes recibidos por el cliente:47332
+
+HASH calculado en el servidor: 
+TIMEOUT
+HASH calculado en el cliente: 
+335c901248f761e166dd0d3c70b63ecb5f98e013
+---------------------------------------

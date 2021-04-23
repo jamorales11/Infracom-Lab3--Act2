@@ -1,0 +1,13 @@
+Fecha: 2021-04-20 22:25:07.468788
+Nombre del archivo: 100MB.txt
+Tamanio del archivo: 100000000 bytes
+----------------------------------------
+Cliente 0 termino con estado de Error
+Numero de paquetes enviados por el servidor:24416
+Numero de paquetes recibidos por el cliente:19554
+Tiempo: 0.640831708908081 segundos
+Hash calculado por el cliente: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+HASH calculado en el servidor: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+---------------------------------------

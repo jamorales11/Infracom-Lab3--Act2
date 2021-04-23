@@ -1,0 +1,12 @@
+Fecha: 2021-04-20 22:25:31.599680
+----------------------------------------
+Nombre del archivo Recibidos
+Tamanio del archivo: 80085248 bytes
+Cliente 0 termino con estado de Error
+Numero de paquetes recibidos por el cliente:19554
+
+HASH calculado en el servidor: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+HASH calculado en el cliente: 
+af4792222d7d84413fd8e3d642dc30935e3748a9
+---------------------------------------

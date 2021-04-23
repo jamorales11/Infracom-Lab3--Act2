@@ -1,0 +1,94 @@
+Fecha: 2021-04-20 22:32:53.568339
+Nombre del archivo: 250MB.txt
+Tamanio del archivo: 250000000 bytes
+----------------------------------------
+Cliente 2 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:31624
+Tiempo: 11.169420957565308 segundos
+Hash calculado por el cliente: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 6 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:31710
+Tiempo: 21.132571935653687 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 9 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:31210
+Tiempo: 21.169276475906372 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 1 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:32522
+Tiempo: 21.170765161514282 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 5 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:31994
+Tiempo: 21.171756982803345 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 7 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:28206
+Tiempo: 22.26245927810669 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 0 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:28988
+Tiempo: 22.26295566558838 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 8 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:28974
+Tiempo: 22.259979486465454 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 3 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:29872
+Tiempo: 22.259979486465454 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------
+Cliente 4 termino con estado de Error
+Numero de paquetes enviados por el servidor:61037
+Numero de paquetes recibidos por el cliente:30216
+Tiempo: 22.26345133781433 segundos
+Hash calculado por el cliente: 
+TIMEOUT
+HASH calculado en el servidor: 
+6fbf62f3a14eeeed07781b84ef1627674004abce
+---------------------------------------

@@ -1,0 +1,49 @@
+Fecha: 2021-04-20 22:28:12.191556
+Nombre del archivo: 100MB.txt
+Tamanio del archivo: 100000000 bytes
+----------------------------------------
+Cliente 2 termino con estado de Error
+Numero de paquetes enviados por el servidor:24416
+Numero de paquetes recibidos por el cliente:18512
+Tiempo: 2.1992621421813965 segundos
+Hash calculado por el cliente: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+HASH calculado en el servidor: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+---------------------------------------
+Cliente 1 termino con estado de Error
+Numero de paquetes enviados por el servidor:24416
+Numero de paquetes recibidos por el cliente:18229
+Tiempo: 2.205712080001831 segundos
+Hash calculado por el cliente: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+HASH calculado en el servidor: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+---------------------------------------
+Cliente 4 termino con estado de Error
+Numero de paquetes enviados por el servidor:24416
+Numero de paquetes recibidos por el cliente:18162
+Tiempo: 3.198207139968872 segundos
+Hash calculado por el cliente: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+HASH calculado en el servidor: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+---------------------------------------
+Cliente 3 termino con estado de Error
+Numero de paquetes enviados por el servidor:24416
+Numero de paquetes recibidos por el cliente:18605
+Tiempo: 3.206143856048584 segundos
+Hash calculado por el cliente: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+HASH calculado en el servidor: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+---------------------------------------
+Cliente 0 termino con estado de Error
+Numero de paquetes enviados por el servidor:24416
+Numero de paquetes recibidos por el cliente:19562
+Tiempo: 3.1887826919555664 segundos
+Hash calculado por el cliente: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+HASH calculado en el servidor: 
+c57ab12efc31a6256ed8ee14f202e33615096242
+---------------------------------------
